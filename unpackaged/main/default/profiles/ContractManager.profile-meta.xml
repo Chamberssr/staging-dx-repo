@@ -2002,7 +2002,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Image</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Individual</tab>
@@ -2094,7 +2094,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Recommendation</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Refund</tab>
