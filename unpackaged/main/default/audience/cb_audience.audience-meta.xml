@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audience xmlns="http://soap.sforce.com/2006/04/metadata">
+    <audienceName>cb audience</audienceName>
+    <container>CB new community</container>
+    <criteria>
+        <criterion>
+            <criterionValue>
+                <profile>platformportal</profile>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Profile</type>
+        </criterion>
+    </criteria>
+    <formulaFilterType>AllCriteriaMatch</formulaFilterType>
+    <isDefaultAudience>false</isDefaultAudience>
+    <targets>
+        <target>
+            <groupName>354abde4-d943-43b9-90be-0cfa896e57a1</groupName>
+            <priority>1</priority>
+            <targetType>ExperienceVariation</targetType>
+            <targetValue>Home_cb_home_Page</targetValue>
+        </target>
+    </targets>
+</Audience>
