@@ -23,10 +23,6 @@
                 <field>PaymentAuthorizationId</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>PaymentMethodId</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Required</behavior>
                 <field>ProcessingMode</field>
             </layoutItems>
@@ -41,6 +37,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Date</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Local_Currency__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
