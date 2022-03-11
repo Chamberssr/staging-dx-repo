@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>my_compact_layout</fullName>
+    <fields>CBCustomObject__c</fields>
+    <fields>cb_new_currency_field__c</fields>
+    <label>my compact layout</label>
+</CompactLayout>
