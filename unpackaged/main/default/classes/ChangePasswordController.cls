@@ -1,5 +1,5 @@
 /**
- * An apex page controller that exposes the change password functionality
+ * An apex page controller that exposes the change password functionality something
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
@@ -12,3 +12,6 @@ public with sharing class ChangePasswordController {
     
    	public ChangePasswordController() {}
 }
+/**
+ * An apex page controller will this conflict?
+ */
