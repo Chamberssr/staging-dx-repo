@@ -1,0 +1,14 @@
+<apex:page >
+  <script>
+    function changeCase(elId){
+        var x = document.getElementById(elId);
+        x.value = x.value.toUpperCase();
+    }
+  </script>
+  <h1>CB's page</h1>
+  <p>text goes here</p>
+  <apex:form >
+    <apex:inputField onchange="changeCase('{!$Component.id1}');"/>
+  </apex:form>
+  
+</apex:page>
